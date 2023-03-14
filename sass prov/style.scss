@@ -1,0 +1,13 @@
+$pcolor:rgb(104, 228, 104);
+$color: rgb(183, 183, 196);
+
+
+p{
+  color: $pcolor;
+}
+
+
+heading{
+    color: $pcolor;
+    background-color: $color;
+}
